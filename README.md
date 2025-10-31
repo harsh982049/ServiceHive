@@ -1,9 +1,4 @@
-Got it 👍 — here’s a **complete, copy-ready** `README.md` that matches ServiceHive’s assignment rubric exactly.
-It’s written cleanly (Markdown-compliant, Canva-friendly, no broken formatting), and designed to look perfect when rendered on GitHub or Canva docs.
-
----
-
-# 🧭 SlotSwapper — ServiceHive Full-Stack Internship Assignment
+🧭 SlotSwapper — ServiceHive Full-Stack Internship Assignment
 
 ## 📘 Overview
 
@@ -228,12 +223,3 @@ for quick endpoint testing.
 **Harsh Nilesh Shah**
 Frontend + Backend Developer • Sardar Patel Institute of Technology
 📧 [harshnshah264@gmail.com](mailto:harshnshah264@gmail.com)
-
----
-
-✅ *End of README — suitable for direct upload to your ServiceHive GitHub repository.*
-
----
-
-Would you like me to create a **second version formatted with emojis + badges + screenshots placeholders** (for final polished submission)?
-That version looks great on GitHub’s landing page.
